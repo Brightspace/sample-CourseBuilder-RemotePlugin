@@ -1,0 +1,3 @@
+[submodule "pages/whmis"]
+	path = pages/whmis
+	url = https://github.com/Desire2Learn-Valence/LTI-demo
